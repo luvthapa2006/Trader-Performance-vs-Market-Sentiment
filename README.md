@@ -93,7 +93,7 @@ Contains:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Trader-Performance-vs-Market-Sentiment.git
+git clone https://github.com/luvthapa2006/Trader-Performance-vs-Market-Sentiment.git
 ```
 
 ### 2. Install dependencies
