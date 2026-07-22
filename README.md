@@ -90,17 +90,25 @@ Contains:
 
 ## How to Run
 
-Install dependencies
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/Trader-Performance-vs-Market-Sentiment.git
+```
+
+### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run
+### 3. Open
 
 ```
 Trader_Performance_Analysis.ipynb
 ```
+
+Run all cells from top to bottom.
 
 ---
 
